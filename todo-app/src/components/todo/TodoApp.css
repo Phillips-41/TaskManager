@@ -1,0 +1,20 @@
+label,
+input,
+button {
+  margin: 20px;
+  padding: 5px;
+}
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 90%;
+  height: 40px;
+}
+/* git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Phillips-41/doctor.git
+git push -u origin main */
+
+/* error: failed to push some refs to 'https://github.com/Phillips-41/Springboot-Web-Applications.git' */
